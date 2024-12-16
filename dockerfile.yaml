@@ -5,3 +5,4 @@ EXPOSE 80
 
 CMD apachectl -D FOREGROUND
 
+지금 dev 모두 거든 알지?
