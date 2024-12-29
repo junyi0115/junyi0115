@@ -6,3 +6,5 @@ EXPOSE 80
 CMD apachectl -D FOREGROUND
 
 지금 dev 모두 거든 알지?
+
+지금 여기는 dev 브런치야
