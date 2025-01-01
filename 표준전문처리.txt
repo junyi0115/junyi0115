@@ -1,0 +1,5 @@
+pubseb
+eai mci 채널 
+fep 미사용
+내부 openFeign
+event pubsub
