@@ -8,3 +8,5 @@ CMD apachectl -D FOREGROUND
 지금 dev 모두 거든 알지?
 
 지금 여기는 dev 브런치야
+
+1. 지금 이 기능은 로깅을 남기는 기능이다.
